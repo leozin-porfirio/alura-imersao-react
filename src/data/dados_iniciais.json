@@ -2,7 +2,7 @@
   "categorias": [
     {
       "titulo": "Development",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Torne-se um Desenvolvedor Profissional",
@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "What is Love?",
+          "url": "https://www.youtube.com/watch?v=9tVkWYv484Y"
         },
         {
           "titulo": "O que é JavaScript?",
@@ -30,12 +30,12 @@
           "url": "https://www.youtube.com/watch?v=MdysIsBvTEQ"
         },
         {
-          "titulo": "Programamos uma Ferramenta pro Youtube com JavaScript Puro",
-          "url": "https://www.youtube.com/watch?v=ScGwWsoC_-I"
-        },
-        {
           "titulo": "O que estudar antes de tentar aprender um Framework JavaScript?",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "Programamos uma Ferramenta pro Youtube com JavaScript Puro",
+          "url": "https://www.youtube.com/watch?v=ScGwWsoC_-I"
         },
         {
           "titulo": "Como usar Git e Github na prática: Guia para iniciantes",
