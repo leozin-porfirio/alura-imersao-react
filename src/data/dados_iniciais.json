@@ -1,0 +1,237 @@
+{
+  "categorias": [
+    {
+      "titulo": "Development",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Torne-se um Desenvolvedor Profissional",
+        "url": "https://www.alura.com.br"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "O que é JavaScript?",
+          "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q&t=63s"
+        },
+        {
+          "titulo": "Eu quero saber se você consegue responder essas 3 perguntas de JavaScript!",
+          "url": "https://www.youtube.com/watch?v=QVrrqgDhhu4"
+        },
+        {
+          "titulo": "Node.js: Iniciando da teoria à prática",
+          "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs&t=1s"
+        },
+        {
+          "titulo": "Dark e Light Mode Nativos com React Native e Styled Components!",
+          "url": "https://www.youtube.com/watch?v=MdysIsBvTEQ"
+        },
+        {
+          "titulo": "Programamos uma Ferramenta pro Youtube com JavaScript Puro",
+          "url": "https://www.youtube.com/watch?v=ScGwWsoC_-I"
+        },
+        {
+          "titulo": "O que estudar antes de tentar aprender um Framework JavaScript?",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "Como usar Git e Github na prática: Guia para iniciantes",
+          "url": "https://www.youtube.com/watch?v=2alg7MQ6_sI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "O Melhor Jogo do Mundo",
+        "url": "https://www.nintendo.pt/Jogos/Super-Nintendo/Super-Mario-World-752133.html"
+      },
+      "videos": [
+        {
+          "titulo": "LEAGUE OF LEGENDS – Movie All Cinematics Trailer",
+          "url": "https://www.youtube.com/watch?v=QamiN6atvw0"
+        },
+        {
+          "titulo": "Teamfight Tactics - Trailer de Mecânica de Jogo - League of Legends",
+          "url": "https://www.youtube.com/watch?v=_XbhPF2jTC0"
+        },
+        {
+          "titulo": "A Rodada - Prévia de jogo de Valorant",
+          "url": "https://www.youtube.com/watch?v=g8amyzDHOKw"
+        }, 
+        {
+          "titulo": "Legends of Runeterra, the League of Legends Strategy Card Game",
+          "url": "https://www.youtube.com/watch?v=61v6teDFv5E"
+        },
+        {
+          "titulo": "Trailer de Anúncio Oficial do FIFA 21",
+          "url": "https://www.youtube.com/watch?v=tuLAn9adQpI"
+        },
+        {
+          "titulo": "Call of Duty®: Warzone - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=0E44DClsX5Q"
+        },
+        {
+          "titulo": "Grand Theft Auto V Trailer",
+          "url": "https://www.youtube.com/watch?v=QkkoHAzjnUs"
+        }
+      ]
+    },
+    {
+      "titulo": "Entertainment",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "O Lugar mais Divertido do Mundo",
+        "url": "https://disneyworld.disney.go.com/pt-br"
+      },
+      "videos": [
+        {
+          "titulo": "F.R.I.E.N.D.S - Opening Season 1",
+          "url": "https://www.youtube.com/watch?v=sLisEEwYZvw"
+        },
+        {
+          "titulo": "People's Choice Awards- The Big Bang Theory",
+          "url": "https://www.youtube.com/watch?v=hXHIUjAItyc"
+        },
+        {
+          "titulo": "Romance Is Hard | Official Trailer? | Brooklyn Nine-Nine",
+          "url": "https://www.youtube.com/watch?v=RKVxp9kRx3o"
+        },
+        {
+          "titulo": "Toy Story 4 | Official Trailer",
+          "url": "https://www.youtube.com/watch?v=wmiIUN-7qhE"
+        },
+        {
+          "titulo": "Disney's Aladdin Teaser Trailer - In Theaters May 24th, 2019",
+          "url": "https://www.youtube.com/watch?v=9g5knnlF7Zo"
+        },
+        {
+          "titulo": "Coco Official Final Trailer",
+          "url": "https://www.youtube.com/watch?v=Rvr68u6k5sI"
+        },
+        {
+          "titulo": "Disney's Mulan | Final Trailer",
+          "url": "https://www.youtube.com/watch?v=R-eFm--k21c"
+        }
+      ]
+    },
+    {
+      "titulo": "Gastronomy",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Torne-se um Chef Profissional",
+        "url": "https://www.cordonbleu.edu/home/pt-br"
+      },
+      "videos": [
+        {
+          "titulo": "Stroganoff, com A mesmo!",
+          "url": "https://www.youtube.com/watch?v=8qFZ0N4R68k"
+        },
+        {
+          "titulo": "O VERDADEIRO PETIT GÂTEAU",
+          "url": "https://www.youtube.com/watch?v=WwETLi0Lhv4"
+        },
+        {
+          "titulo": "CHEF FOGAÇA VS HENRIQUE - FAROFA DE PÃO",
+          "url": "https://www.youtube.com/watch?v=i_iQVgq2ZcQ"
+        },
+        {
+          "titulo": "PIPOCA COM PÃO DE QUEIJO E BACON",
+          "url": "https://www.youtube.com/watch?v=OOI9i2A9EcU"
+        },
+        {
+          "titulo": "COMO FAZER COOKIE COM GOTAS DE CHOCOLATE",
+          "url": "https://www.youtube.com/watch?v=KIqairdeHoM"
+        },
+        {
+          "titulo": "Acabam pedindo todos os tacos do menu",
+          "url": "https://www.youtube.com/watch?v=c0S6Z_4RoiM"
+        },
+        {
+          "titulo": "LASANHA TRANÇADA DE PRESUNTO E QUEIJO",
+          "url": "https://www.youtube.com/watch?v=IHkGFhg8tUI"
+        }
+      ]
+    },
+    {
+      "titulo": "Gym",
+      "cor": "red",
+      "link_extra": {
+        "text": "O Maior Movimento Educacional da Musculação no Brasil",
+        "url": "https://universidademaromba.com/"
+      },
+      "videos": [
+        {
+          "titulo": "TUDO SOBRE DIETA FLEXÍVEL",
+          "url": "https://www.youtube.com/watch?v=GTIoj87CR1c"
+        },
+        {
+          "titulo": "PERIODIZAÇÃO NA MUSCULAÇÃO",
+          "url": "https://www.youtube.com/watch?v=vot2Q6a4D2M"
+        },
+        {
+          "titulo": "SUPLEMENTOS PARA INICIANTES: O QUE TOMAR??",
+          "url": "https://www.youtube.com/watch?v=MRU-WXnDUfA"
+        },
+        {
+          "titulo": "BÌCEPS E TRÍCEPS BÁSICO E DESTRUIDOR",
+          "url": "https://www.youtube.com/watch?v=sv5g_YxU8JI"
+        },
+        {
+          "titulo": "COMO PERDER BARRIGA!? Passo a passo definitivo! 💪falso magro: Bulking ou Cutting?",
+          "url": "https://www.youtube.com/watch?v=Wrr4t7aYMqA"
+        },
+        {
+          "titulo": "TREINEI COM O BIG RAMY! *o maior fisiculturista do mundo*",
+          "url": "https://www.youtube.com/watch?v=zVZLEPn_LQM"
+        },
+        {
+          "titulo": "Como corrigir as desproporções do seu corpo?",
+          "url": "https://www.youtube.com/watch?v=K_nMfL9TXAI"
+        }
+      ]
+    },
+    {
+      "titulo": "Sports",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "A Melhor Marca de Tênis",
+        "url": "https://air.jordan.com/card/the-most-memorable-shoes-worn-by-mj-in-the-last-dance"
+      },
+      "videos": [
+        {
+          "titulo": "Lionel Messi - 100 European goals",
+          "url": "https://www.youtube.com/watch?v=N_VWtZ5oxlI"
+        },
+        {
+          "titulo": "Top 100 Plays | 2019-20 NBA Season",
+          "url": "https://www.youtube.com/watch?v=DsxxgJTXr8Y"
+        },
+        {
+          "titulo": "Patriots vs. Rams | Super Bowl LIII Game Highlights",
+          "url": "https://www.youtube.com/watch?v=usw9WiShXEs"
+        },
+        {
+          "titulo": "All Home Runs from 2020 Opening Day!",
+          "url": "https://www.youtube.com/watch?v=CERazrEJ4k4"
+        },
+        {
+          "titulo": "Collin Morikawa’s winning highlights from the Workday Charity Open 2020",
+          "url": "https://www.youtube.com/watch?v=OmCGRggPBr8"
+        },
+        {
+          "titulo": "Melhores nocautes do UFC em 2020",
+          "url": "https://www.youtube.com/watch?v=qmueGkNvIQU"
+        },
+        {
+          "titulo": "2020 Styrian Grand Prix: Race Highlights",
+          "url": "https://www.youtube.com/watch?v=IEB3jc22izI"
+        }
+      ]
+    }
+  ]
+}
