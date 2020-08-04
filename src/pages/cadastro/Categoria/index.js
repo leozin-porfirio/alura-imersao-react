@@ -29,7 +29,6 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    console.log('alo alo brasil');
     const URL = 'http://localhost:8080/categorias';
 
     fetch(URL)
