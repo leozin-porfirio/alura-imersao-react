@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
-// import Menu from '../../components/Menu';
+import Menu from '../../components/Menu';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
-import PageDefault from '../../components/PageDefault';
-// import Footer from '../../components/Footer';
+// import PageDefault from '../../components/PageDefault';
+import Footer from '../../components/Footer';
 // import dadosIniciais from '../../data/dados_iniciais.json';
 import categoriasRepository from '../../repositories/categorias';
 
@@ -27,7 +27,7 @@ function Home() {
     // http://localhost:8080/categorias?_embed=videos
     categoriasRepository.getAllWithVideos()
       .then((categoriaComVideos) => {
-        console.log(categoriaComVideos);
+        // console.log(categoriaComVideos);
         setDadosIniciais(categoriaComVideos);
       })
       .catch((err) => {
@@ -36,7 +36,8 @@ function Home() {
   }, []);
 
   return (
-    <PageDefault>
+    <>
+      <Menu />
       <AppWrapper>
         {dadosIniciais.length === 0 && (<div>Loading...</div>)}
 
@@ -97,7 +98,8 @@ function Home() {
         /> */}
 
       </AppWrapper>
-    </PageDefault>
+      <Footer />
+    </>
   );
 }
 

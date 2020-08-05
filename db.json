@@ -2,43 +2,56 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Front End",
+      "titulo": "Development",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Torne-se um Desenvolvedor Profissional",
+        "url": "https://www.alura.com.br"
       }
     },
     {
       "id": 2,
-      "titulo": "Back End",
+      "titulo": "Games",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "O Melhor Jogo do Mundo",
+        "url": "https://www.nintendo.pt/Jogos/Super-Nintendo/Super-Mario-World-752133.html"
       }
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Entertainment",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
+        "text": "O Lugar mais Divertido do Mundo",
+        "url": "https://disneyworld.disney.go.com/pt-br"
       }
     },
     {
       "id": 4,
-      "titulo": "Filmes",
-      "cor": "orange"
+      "titulo": "Gastronomy",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Torne-se um Chef Profissional",
+        "url": "https://www.cordonbleu.edu/home/pt-br"
+      }
     },
     {
       "id": 5,
-      "titulo": "Games",
+      "titulo": "Gym",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "O Maior Movimento Educacional da Musculação no Brasil",
+        "url": "https://universidademaromba.com/"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Sports",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "A Melhor Marca de Tênis do Mundo",
+        "url": "https://air.jordan.com/card/the-most-memorable-shoes-worn-by-mj-in-the-last-dance"
       }
     }
   ],
@@ -46,146 +59,260 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "titulo": "What is Love?",
+      "url": "https://www.youtube.com/watch?v=9tVkWYv484Y"
     },
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+      "titulo": "O que é JavaScript?",
+      "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q&t=63s"
     },
     {
       "id": 3,
       "categoriaId": 1,
-      "titulo": "Componentização com VanillaJS #AluraMais",
-      "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+      "titulo": "Eu quero saber se você consegue responder essas 3 perguntas de JavaScript!",
+      "url": "https://www.youtube.com/watch?v=QVrrqgDhhu4"
     },
     {
       "id": 4,
       "categoriaId": 1,
-      "titulo": "Pare de chutar e aprenda a display: inline #01",
-      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+      "titulo": "Node.js: Iniciando da teoria à prática",
+      "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs&t=1s"
     },
     {
       "id": 5,
       "categoriaId": 1,
-      "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+      "titulo": "Dark e Light Mode Nativos com React Native e Styled Components!",
+      "url": "https://www.youtube.com/watch?v=MdysIsBvTEQ"
     },
     {
       "id": 6,
       "categoriaId": 1,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+      "titulo": "O que estudar antes de tentar aprender um Framework JavaScript?",
+      "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
     },
     {
       "id": 7,
       "categoriaId": 1,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+      "titulo": "Programamos uma Ferramenta pro Youtube com JavaScript Puro",
+      "url": "https://www.youtube.com/watch?v=ScGwWsoC_-I"
     },
     {
       "id": 8,
-      "categoriaId": 2,
-      "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+      "categoriaId": 1,
+      "titulo": "Como usar Git e Github na prática: Guia para iniciantes",
+      "url": "https://www.youtube.com/watch?v=2alg7MQ6_sI"
     },
     {
       "id": 9,
       "categoriaId": 2,
-      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+      "titulo": "LEAGUE OF LEGENDS – Movie All Cinematics Trailer",
+      "url": "https://www.youtube.com/watch?v=QamiN6atvw0"
     },
     {
       "id": 10,
       "categoriaId": 2,
-      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+      "titulo": "Teamfight Tactics - Trailer de Mecânica de Jogo - League of Legends",
+      "url": "https://www.youtube.com/watch?v=_XbhPF2jTC0"
     },
     {
       "id": 11,
       "categoriaId": 2,
-      "titulo": "API: Dicionário do Programador",
-      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+      "titulo": "A Rodada - Prévia de jogo de Valorant",
+      "url": "https://www.youtube.com/watch?v=g8amyzDHOKw"
     },
     {
       "id": 12,
       "categoriaId": 2,
-      "titulo": "Usando Git Direito",
-      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+      "titulo": "Legends of Runeterra, the League of Legends Strategy Card Game",
+      "url": "https://www.youtube.com/watch?v=61v6teDFv5E"
     },
     {
       "id": 13,
-      "categoriaId": 3,
-      "titulo": "Teste de Turing",
-      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+      "categoriaId": 2,
+      "titulo": "Trailer de Anúncio Oficial do FIFA 21",
+      "url": "https://www.youtube.com/watch?v=tuLAn9adQpI"
     },
     {
       "id": 14,
-      "categoriaId": 3,
-      "titulo": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+      "categoriaId": 2,
+      "titulo": "Call of Duty®: Warzone - Official Trailer",
+      "url": "https://www.youtube.com/watch?v=0E44DClsX5Q"
     },
     {
       "id": 15,
-      "categoriaId": 3,
-      "titulo": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+      "categoriaId": 2,
+      "titulo": "Grand Theft Auto V Trailer",
+      "url": "https://www.youtube.com/watch?v=QkkoHAzjnUs"
     },
     {
       "id": 16,
       "categoriaId": 3,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+      "titulo": "F.R.I.E.N.D.S - Opening Season 1",
+      "url": "https://www.youtube.com/watch?v=sLisEEwYZvw"
     },
     {
       "id": 17,
-      "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "categoriaId": 3,
+      "titulo": "People's Choice Awards- The Big Bang Theory",
+      "url": "https://www.youtube.com/watch?v=hXHIUjAItyc"
     },
     {
       "id": 18,
-      "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+      "categoriaId": 3,
+      "titulo": "Romance Is Hard | Official Trailer? | Brooklyn Nine-Nine",
+      "url": "https://www.youtube.com/watch?v=RKVxp9kRx3o"
     },
     {
       "id": 19,
-      "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "categoriaId": 3,
+      "titulo": "Toy Story 4 | Official Trailer",
+      "url": "https://www.youtube.com/watch?v=wmiIUN-7qhE"
     },
     {
       "id": 20,
-      "categoriaId": 4,
-      "titulo": "Feitiço do Tempo",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+      "categoriaId": 3,
+      "titulo": "Disney's Aladdin Teaser Trailer - In Theaters May 24th, 2019",
+      "url": "https://www.youtube.com/watch?v=9g5knnlF7Zo"
     },
     {
       "id": 21,
-      "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+      "categoriaId": 3,
+      "titulo": "Coco Official Final Trailer",
+      "url": "https://www.youtube.com/watch?v=Rvr68u6k5sI"
     },
     {
       "id": 22,
-      "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+      "categoriaId": 3,
+      "titulo": "Disney's Mulan | Final Trailer",
+      "url": "https://www.youtube.com/watch?v=R-eFm--k21c"
     },
     {
       "id": 23,
-      "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+      "categoriaId": 4,
+      "titulo": "Stroganoff, com A mesmo!",
+      "url": "https://www.youtube.com/watch?v=8qFZ0N4R68k"
     },
     {
       "id": 24,
+      "categoriaId": 4,
+      "titulo": "O VERDADEIRO PETIT GÂTEAU",
+      "url": "https://www.youtube.com/watch?v=WwETLi0Lhv4"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "CHEF FOGAÇA VS HENRIQUE - FAROFA DE PÃO",
+      "url": "https://www.youtube.com/watch?v=i_iQVgq2ZcQ"
+    },
+    {
+      "id": 26,
+      "categoriaId": 4,
+      "titulo": "PIPOCA COM PÃO DE QUEIJO E BACON",
+      "url": "https://www.youtube.com/watch?v=OOI9i2A9EcU"
+    },
+    {
+      "id": 27,
+      "categoriaId": 4,
+      "titulo": "COMO FAZER COOKIE COM GOTAS DE CHOCOLATE",
+      "url": "https://www.youtube.com/watch?v=KIqairdeHoM"
+    },
+    {
+      "id": 28,
+      "categoriaId": 4,
+      "titulo": "Acabam pedindo todos os tacos do menu",
+      "url": "https://www.youtube.com/watch?v=c0S6Z_4RoiM"
+    },
+    {
+      "id": 29,
+      "categoriaId": 4,
+      "titulo": "LASANHA TRANÇADA DE PRESUNTO E QUEIJO",
+      "url": "https://www.youtube.com/watch?v=IHkGFhg8tUI"
+    },
+    {
+      "id": 30,
       "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "titulo": "TUDO SOBRE DIETA FLEXÍVEL",
+      "url": "https://www.youtube.com/watch?v=GTIoj87CR1c"
+    },
+    {
+      "id": 31,
+      "categoriaId": 5,
+      "titulo": "PERIODIZAÇÃO NA MUSCULAÇÃO",
+      "url": "https://www.youtube.com/watch?v=vot2Q6a4D2M"
+    },
+    {
+      "id": 32,
+      "categoriaId": 5,
+      "titulo": "SUPLEMENTOS PARA INICIANTES: O QUE TOMAR??",
+      "url": "https://www.youtube.com/watch?v=MRU-WXnDUfA"
+    },
+    {
+      "id": 33,
+      "categoriaId": 5,
+      "titulo": "BÌCEPS E TRÍCEPS BÁSICO E DESTRUIDOR",
+      "url": "https://www.youtube.com/watch?v=sv5g_YxU8JI"
+    },
+    {
+      "id": 34,
+      "categoriaId": 5,
+      "titulo": "COMO PERDER BARRIGA!? Passo a passo definitivo! 💪falso magro: Bulking ou Cutting?",
+      "url": "https://www.youtube.com/watch?v=Wrr4t7aYMqA"
+    },
+    {
+      "id": 35,
+      "categoriaId": 5,
+      "titulo": "TREINEI COM O BIG RAMY! *o maior fisiculturista do mundo*",
+      "url": "https://www.youtube.com/watch?v=zVZLEPn_LQM"
+    },
+    {
+      "id": 36,
+      "categoriaId": 5,
+      "titulo": "Como corrigir as desproporções do seu corpo?",
+      "url": "https://www.youtube.com/watch?v=K_nMfL9TXAI"
+    },
+    {
+      "id": 37,
+      "categoriaId": 6,
+      "titulo": "Lionel Messi - 100 European goals",
+      "url": "https://www.youtube.com/watch?v=N_VWtZ5oxlI"
+    },
+    {
+      "id": 38,
+      "categoriaId": 6,
+      "titulo": "Top 100 Plays | 2019-20 NBA Season",
+      "url": "https://www.youtube.com/watch?v=DsxxgJTXr8Y"
+    },
+    {
+      "id": 39,
+      "categoriaId": 6,
+      "titulo": "Patriots vs. Rams | Super Bowl LIII Game Highlights",
+      "url": "https://www.youtube.com/watch?v=usw9WiShXEs"
+    },
+    {
+      "id": 40,
+      "categoriaId": 6,
+      "titulo": "All Home Runs from 2020 Opening Day!",
+      "url": "https://www.youtube.com/watch?v=CERazrEJ4k4"
+    },
+    {
+      "id": 41,
+      "categoriaId": 6,
+      "titulo": "Collin Morikawa’s winning highlights from the Workday Charity Open 2020",
+      "url": "https://www.youtube.com/watch?v=OmCGRggPBr8"
+    },
+    {
+      "id": 42,
+      "categoriaId": 6,
+      "titulo": "Melhores nocautes do UFC em 2020",
+      "url": "https://www.youtube.com/watch?v=qmueGkNvIQU"
+    },
+    {
+      "id": 43,
+      "categoriaId": 6,
+      "titulo": "2020 Styrian Grand Prix: Race Highlights",
+      "url": "https://www.youtube.com/watch?v=IEB3jc22izI"
     }
   ]
 }
