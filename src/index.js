@@ -3,12 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
-//website pages
+// website pages
 import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
-
-const Pagina404 = () => (<div>Página 404</div>);
+import Pagina404 from './pages/NotFound';
 
 ReactDOM.render(
   <BrowserRouter>
@@ -19,10 +18,8 @@ ReactDOM.render(
       <Route component={Pagina404} />
     </Switch>
   </BrowserRouter>,
-  document.getElementById('root')
+  document.getElementById('root'),
 
-
-  
   /*
   //não utilização do React Router DOM
     <React.StrictMode>

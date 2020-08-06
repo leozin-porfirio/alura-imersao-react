@@ -4,4 +4,4 @@ const URL = window.location.hostname.includes('localhost')
 
 export default {
   URL,
-}
+};
